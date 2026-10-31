@@ -1,0 +1,2 @@
+Model,Train seconds,Inference seconds,Parameters,BLEU,chrF
+Basic Transformer,30.79453182220459,56.68188762664795,1645503,0.021572597886160685,5.255661351002649
